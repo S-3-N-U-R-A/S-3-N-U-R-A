@@ -1,56 +1,101 @@
-<h1 align="center">Hey, I'm Senura Buthmin 👋</h1>
+<div align="center">
 
-<p align="center">
-  🛡️ Cybersecurity Student &nbsp;|&nbsp; ⚙️ DevOps Enthusiast &nbsp;|&nbsp; 💻 Systems Programmer
-</p>
+```
+███████╗███████╗███╗   ██╗██╗   ██╗██████╗  █████╗ 
+██╔════╝██╔════╝████╗  ██║██║   ██║██╔══██╗██╔══██╗
+███████╗█████╗  ██╔██╗ ██║██║   ██║██████╔╝███████║
+╚════██║██╔══╝  ██║╚██╗██║██║   ██║██╔══██╗██╔══██║
+███████║███████╗██║ ╚████║╚██████╔╝██║  ██║██║  ██║
+╚══════╝╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
----
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Offensive+%26+Defensive+Security;DevOps+%26+Automation+Enthusiast;The+best+defenders+think+like+attackers.)
 
-## 🧠 About Me
-
-- 🎓 Student passionate about cybersecurity and infrastructure
-- 🔴 **Offensive:** Penetration testing, exploit development, low-level attack research
-- 🔵 **Defensive:** SOC workflows, threat detection, blue team methodologies
-- ⚙️ **DevOps:** Automation, CI/CD pipelines, infrastructure as code
-- 💻 Currently sharpening skills in **C, TCP/IP networking & Win32 systems programming**
-- 💡 Believer that the best defenders think like attackers
+</div>
 
 ---
 
-## 🛠️ Tech & Tools
+```bash
+┌──(senura㉿kali)-[~]
+└─$ whoami
+```
+> 🧑‍💻 **Senura Buthmin** — Cybersecurity student with a passion for understanding systems at their lowest level.  
+> Interested in both sides of the battlefield — breaking things to learn how to defend them.  
+> Currently diving deep into **offensive security**, **blue team ops**, and **DevOps automation**.
+
+```bash
+┌──(senura㉿kali)-[~]
+└─$ cat /etc/interests
+```
+
+```
+[*] Penetration Testing & Exploit Development
+[*] SOC Operations & Threat Detection  
+[*] Network Protocol Analysis
+[*] Win32 & Linux Systems Programming
+[*] CI/CD Pipelines & Infrastructure Automation
+[*] CTF Challenges & Security Research
+```
+
+---
+
+<div align="center">
+
+## ⚡ Arsenal
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=00FF41)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF41)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41)
+![Kali](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+</div>
 
 ---
 
-## 📂 Featured Projects
+```bash
+┌──(senura㉿kali)-[~]
+└─$ cat /etc/current_mission
+```
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🔐 [WinSock Keylogger](https://github.com/S-3-N-U-R-A/your-repo-name) | Educational TCP client-server keystroke capture system | C, WinSock2, Win32 |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S-3-N-U-R-A&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-3-N-U-R-A&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
-</p>
-
----
-
-## 📬 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-S--3--N--U--R--A-181717?style=for-the-badge&logo=github)](https://github.com/S-3-N-U-R-A)
+```
+[ACTIVE]   Learning low-level C & Win32 systems programming
+[ACTIVE]   Studying TCP/IP networking internals
+[ACTIVE]   Exploring penetration testing methodologies
+[QUEUED]   CompTIA Security+ certification
+[QUEUED]   TryHackMe — building rank
+[QUEUED]   Setting up a home SOC lab
+```
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=S-3-N-U-R-A&style=for-the-badge&color=0078D6" alt="Profile Views"/>
-</p>
+<div align="center">
+
+## 📡 Signal
+
+```
+[?] Want to connect, collaborate, or talk security?
+```
+
+[![GitHub](https://img.shields.io/badge/GitHub-S--3--N--U--R--A-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/S-3-N-U-R-A)
+
+---
+
+## 📊 Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=S-3-N-U-R-A&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=ffffff" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-3-N-U-R-A&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=ffffff" width="38%"/>
+
+---
+
+```
+[ system nominal ] [ threat level: learning ] [ uptime: always ]
+```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=S-3-N-U-R-A&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS)
+
+</div>
